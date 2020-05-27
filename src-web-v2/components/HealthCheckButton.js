@@ -41,10 +41,6 @@ const HealthCheckButton = () => (
       file will be generated containing the inventory report.
     </p>
   </ModalWrapper>
-
-  // <Button {...buttonProps} renderIcon={HealthCross20}>
-  //   {msgs.get('run.health.check')}
-  // </Button>
 );
 
 export default HealthCheckButton;

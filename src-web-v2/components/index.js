@@ -7,3 +7,5 @@ export { default as ActionsButtons } from './ActionsButtons';
 export { default as SecondaryHeader } from './SecondaryHeader';
 export { default as HealthCheckButton } from './HealthCheckButton';
 export { default as DropdownMenu } from './DropdownMenu';
+export { default as ApplicationResourceTable } from './tables/ApplicationResourceTable';
+export { default as ActionHistoryResourceTable } from './tables/ActionHistoryResourceTable';
